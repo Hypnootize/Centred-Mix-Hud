@@ -1,0 +1,6 @@
+"Resource/UI/HudBowCharge.res"
+{	
+
+	
+	
+}
