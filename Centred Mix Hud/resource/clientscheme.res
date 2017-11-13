@@ -11591,7 +11591,7 @@ M0refont16
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "255 255 255 255"
 					"offset" "0 1"
 				}
 			}
@@ -11600,7 +11600,7 @@ M0refont16
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "255 255 255 255"
 					"offset" "1 0"
 				}
 			}
@@ -11609,7 +11609,7 @@ M0refont16
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "255 255 255 255"
 					"offset" "0 0"
 				}
 			}
@@ -11618,7 +11618,7 @@ M0refont16
 			{
 				"1"
 				{
-					"color" "TanDark"
+					"color" "255 255 255 255"
 					"offset" "0 0"
 				}
 			}
