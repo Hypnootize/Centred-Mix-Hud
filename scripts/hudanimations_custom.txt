@@ -619,3 +619,17 @@ event ClearUberBar
  Animate UberBox118 alpha "0" Linear 0.0 0.001
  Animate UberBox119 alpha "0" Linear 0.0 0.001
 }
+
+//============================================
+
+event CompetitiveGame_LowerChatWindow
+{
+}
+event CompetitiveGame_RestoreChatWindow
+{
+}
+event HudTournament_MoveChatWindow
+{
+}
+
+//===========================================
